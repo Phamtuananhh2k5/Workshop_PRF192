@@ -1,4 +1,4 @@
-#include <stdio.h>    // em không nộp được file .c lên edunext nên em gửi link github ạ, nếu có vấn đề gì thì em mong cô sẽ gửi mail cho e qua phamanh8084@gmail.com hoặc sdt 0335504155 em cảm ơn ạ 
+#include <stdio.h>    // em không nộp được file .c lên edunext nên em gửi link github ạ, nếu có vấn đề gì thì em mong cô sẽ gửi mail cho e qua phamanh8084@gmail.com em cảm ơn ạ 
 
 int main() {
     int n, i;
